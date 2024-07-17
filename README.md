@@ -26,5 +26,4 @@ This project implements a Contacts Page application where users can manage their
 - **State Management**: useState and useEffect hooks for managing state and side effects
 - **File Upload**: FileReader API for importing contacts from JSON files
 
-## Project Structure
 
