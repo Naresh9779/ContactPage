@@ -1,0 +1,30 @@
+[
+    {
+     
+      "name": "John Doe",
+      "phone": "1234567890",
+      "email": "john.doe@example.com",
+
+      "address": "123 Elm Street",
+      "subcriptionStatus": "Subscribed"
+    },
+    {
+     
+      "name": "Jane Smith",
+      "phone": "0987654321",
+      "email": "jane.smith@example.com",
+   
+      "address": "456 Oak Avenue",
+      "subcriptionStatus": "Unsubscribed"
+    },
+    {
+   
+      "name": "Alice Johnson",
+      "phone": "1112223333",
+      "email": "alice.johnson@example.com",
+      
+      "address": "789 Pine Road",
+      "subcriptionStatus": "Subscribed"
+    }
+  ]
+  

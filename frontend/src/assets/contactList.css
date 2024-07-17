@@ -1,0 +1,30 @@
+/* ContactsPage.css */
+.container {
+  padding: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.table-container {
+  margin-top: 20px;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+}
+
+.tooltip {
+  margin-left: 10px;
+}
+
+.dialog-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.dialog-actions {
+  justify-content: flex-end;
+}

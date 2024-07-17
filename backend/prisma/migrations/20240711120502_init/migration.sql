@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `contact` ADD COLUMN `creteddate` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
+    ADD COLUMN `subcriptionStatus` VARCHAR(191) NULL;
